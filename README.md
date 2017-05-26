@@ -50,7 +50,7 @@ Métodos Usados :
 
 Resultados : 
 
-![alt text](https://github.com/juanpbaquero/Trabajo-Final-/blob/master/mapaginnicarros.jpg)
+![alt text](https://github.com/juanpbaquero/Trabajo-Final-/blob/master/precio%20carros.jpg)
 
 
  
@@ -63,12 +63,14 @@ En la Figura 3 se observa el mapa del índice de Gini medido por encuestas de ho
 
 
 
-
+![alt text](https://github.com/juanpbaquero/Trabajo-Final-/blob/master/mapaginnicarros.jpg)
 
  
 Figura 2: Mapa índice de Gini  medido por precios de carros
 
- i 
+ 
+
+![alt text](https://github.com/juanpbaquero/Trabajo-Final-/blob/master/mapaginnitotal.jpg)
 
 
 Figura 3: Mapa índice de Gini capturado por medio de encuestas de hogares 
