@@ -50,6 +50,9 @@ Métodos Usados :
 
 Resultados : 
 
+![alt text](https://github.com/juanpbaquero/Trabajo-Final-/blob/master/mapaginnicarros.jpg)
+
+
  
 Figura 1: Precio promedio de carros en Colombia 
 
