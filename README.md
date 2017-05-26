@@ -29,7 +29,7 @@ Métodos Usados :
 
 
 
-
+Para ver el codigo en python pulse [I'm an inline-style link](https://www.google.com)
 
 Resultados : 
 
