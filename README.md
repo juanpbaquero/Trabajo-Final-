@@ -4,24 +4,7 @@
 Descripción y Motivación
 Datos publicados por el banco mundial sugieren que a 2014 Colombia es el país más desigual de América (ver tabla 1 ).  No solo es preocupante la distancia en equidad respecto a otros países , es preocupante la persistencia de la desigualdad en Colombia  y las consecuencias que trae  esto para un país  en desarrollo.   Siendo la desigualdad un  fenómeno de vital importancia para el futuro y desarrollo del país es importante idear diversas medidas de este fenómeno para el análisis y para el diseño de política. En este trabajo se plantea una medición de desigualdad para Colombia, basada en el trabajo de Kholodilin et al. ( 2012) los cuales crean una medición de desigualdad para Alemania. 
 
-	Gini 2014 
-Colombia	53.5
-Paraguay	51.67
-Brasil	51.48
-Panamá	50.7
-Honduras	50.64
-Chile	50.45
-Guatemala	48.66
-Costa Rica	48.53
-Bolivia	48.4
-México	48.21
-Dominicana Republica	47.07
-Ecuador	45.38
-Perú	44.14
-Argentina	42.67
-El Salvador	41.84
-Uruguay	41.6
-Fuente : Banco Mundial 
+![alt text](https://github.com/juanpbaquero/Trabajo-Final-/blob/master/tabla.jpg)
 
 Algunas de las principales motivaciones del trabajo son : 
 •	Los métodos de recolección de datos tradicionales ( ej .  encuestas de hogares )  son costosos 
