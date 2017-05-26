@@ -29,7 +29,7 @@ Métodos Usados :
 
 
 
-Para ver el codigo en python pulse [I'm an inline-style link(https://github.com/juanpbaquero/TrabajoFinal-/blob/master/trabajofinal2.py)
+pulse [Aqui](https://github.com/juanpbaquero/TrabajoFinal-/blob/master/trabajofinal2.py) para ver el codigo en python 
 
 Resultados : 
 
